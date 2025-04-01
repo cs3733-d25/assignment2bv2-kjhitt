@@ -5,6 +5,7 @@ import {Form1} from "./components/form1.tsx"
 export function Hobby1() {
     return (
         <div className={"hobby1"}>
+            <h2>Keagan's Hobby</h2>
             <p>
                 Keagan's hobby is playing video games. He spends a lot of his time playing games, such as Call of Duty,
                 Minecraft, or the image below, Forza Horizon 5. He mostly plays games on his PC.
