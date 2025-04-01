@@ -1,3 +1,15 @@
-ol {
+ol, ul {
     background-color: red;
+    border: 10px inset greenyellow;
+    color: snow;
+    column-count: 5;
+    cursor: help;
+    display: inline-block;
+    filter: drop-shadow(5px 10px 4px pink);
+    font-family: "Times New Roman", Impact, fantasy;
+    font-size: large;
+    font-weight: 900;
+    height: 40px;
+    letter-spacing: -1px;
+    opacity: 0.79;
 }
