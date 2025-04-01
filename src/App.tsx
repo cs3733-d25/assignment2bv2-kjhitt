@@ -2,6 +2,7 @@ import {Hobby1} from"./hobby1.tsx"
 import './App.css'
 import {Intro} from "./intro.tsx";
 import {Title} from "./title.tsx";
+import {Hobby2} from "./hobby2.tsx";
 
 function App() {
     return (
@@ -14,6 +15,7 @@ function App() {
             </div>
             <div className={"hobby-page"}>
                 <Hobby1 />
+                <Hobby2 />
             </div>
         </div>
     )
