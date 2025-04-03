@@ -12,7 +12,7 @@ export function Hobby2() {
                 One of my favorite hobbies I've picked up recently is playing golf. It's a relaxing yet challenging sport that I enjoy playing with my friends.
             </p>
             <div id={"p"}>
-                <img src={"public/pebblebeach.jpeg"} width={460} alt={"Forza Horizon 5 Banner"} />
+                <img src={"public/pebblebeach.jpeg"} width={460} alt={"Pebble Beach Banner"} />
             </div>
             <List2></List2>
             <Table2></Table2>
